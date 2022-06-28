@@ -28,7 +28,7 @@ contactPagination = async (req, res) => {
 createContact = async (req, res) => {
   try {
     await DBContacts.create(req.body)
-    return res.status(201)
+    return res.sendStatus(201)
   } catch (error) {
     return res.status(400).json(error.message)
   }

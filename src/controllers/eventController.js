@@ -20,9 +20,10 @@ eventPagination = async (req, res) => {
 }
 
 createEvent = async (req, res) => {
+  console.log(req.body)
   try {
     await DBEvents.create(req.body)
-    return res.status(201)
+    return res.sendStatus(201)
   } catch (error) {
     console.log(error)
     return res.status(400).json(error.message)
