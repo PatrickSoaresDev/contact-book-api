@@ -103,22 +103,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Express.js](https://expressjs.com/pt-br/)
 - [axios](https://axios-http.com/ptbr/docs/intro)
 
-## Nota
+ ## Nota
 
 <h4>Inspirado no projeto do Victor Rafael</h4>
-<a href="https://github.com/VictorRafael735">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104468079?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Victor Rafael</b></sub></a> <a href="https://github.com/VictorRafael735/agenda-eletronica" title="Projeto Victor"></a>
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rafael-9a01341bb/) 
+	
+[![image](https://img.shields.io/badge/Victor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rafael-9a01341bb/) 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorRafael735)
 
 
 ## Autor
 
-<a href="https://www.linkedin.com/in/patrick-soares-929741163/">
  <img style="border-radius: 50%;" src="https://media-exp2.licdn.com/dms/image/C4D03AQHfAGKxxUmiXw/profile-displayphoto-shrink_200_200/0/1655917944326?e=1661990400&v=beta&t=8UBa692kTzrAxjD67bGTx0c6Xy6K8AsPcJrusdOMAFE" width="100px;" alt=""/>
- <br />
- <sub><b>Patrick Soares</b></sub></a> <a href="https://www.linkedin.com/in/patrick-soares-929741163/" title="LinkedIn"></a>
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-soares-929741163/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.soares.dias@gmail.com)
+ 	
+[![image](https://img.shields.io/badge/Patrick-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-soares-929741163/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.soares.dias@gmail.com)
+
 
